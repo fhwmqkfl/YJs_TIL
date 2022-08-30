@@ -16,3 +16,8 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 
 ## 👩‍💻 ETC
 
+## 🕹 Trouble Shooting
+* AWS
+  * [가용 영역 & VPN 관련 에러](https://fhwmqkfl.tistory.com/15)
+
+
