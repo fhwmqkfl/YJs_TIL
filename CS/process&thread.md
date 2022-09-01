@@ -3,7 +3,7 @@
 ## 프로세스(process)
 
 - 컴퓨터에서 연속적으로 실행되고 있는 컴퓨터 프로그램 ⇒ 메모리에 올라와 실행되고 있는 프로그램의 독립적인 개체(인스턴스)
-- 운영체제로 부터 시스템 **자원을 할당받는 작업의 단위**이다
+- 운영체제로 부터 시스템 **자원을 할당받는 작업의 단위**이다<br>
 → 할당받는 시스템 자원의 예시) cpu시간 /  운영되기 위해 필요한 주소&공간 / code, data, stack, heap의 구조로 되어있는 독립된 메모리 영역
 - 특징
     
@@ -20,7 +20,7 @@
 
 ![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAjqpy%2FbtrgGrgTjp3%2FxrlTPkHIXEnt6lEF5p2Gt1%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAjqpy%2FbtrgGrgTjp3%2FxrlTPkHIXEnt6lEF5p2Gt1%2Fimg.png)
 
-code(컴파일된 코드) - data(변수, 초기화된 데이터) - stack(임시데이터(함수호출, 로컬변수등) 저장) - heap(코드에서 동적으로 만들어지는 데이터 저장)
+> code(컴파일된 코드) - data(변수, 초기화된 데이터) - stack(임시데이터(함수호출, 로컬변수등) 저장) - heap(코드에서 동적으로 만들어지는 데이터 저장)
 
 위와 같은 식으로 프로세스가 구성되고 이를 CPU가 읽으며 실행한다. 
 
@@ -47,7 +47,7 @@ code(컴파일된 코드) - data(변수, 초기화된 데이터) - stack(임시�
 
  
 
-! [https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FPyQZ4%2FbtrgDdjcBFu%2Fj2kt3wfwT3KPCPlBCjdi4k%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FPyQZ4%2FbtrgDdjcBFu%2Fj2kt3wfwT3KPCPlBCjdi4k%2Fimg.png)
+![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FPyQZ4%2FbtrgDdjcBFu%2Fj2kt3wfwT3KPCPlBCjdi4k%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FPyQZ4%2FbtrgDdjcBFu%2Fj2kt3wfwT3KPCPlBCjdi4k%2Fimg.png)
 
 ### 멀티 프로세스
 
