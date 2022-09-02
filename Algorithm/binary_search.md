@@ -35,8 +35,7 @@ array = input().split()
 
 #순차 탐색 수행 결과 출력
 print(sequential_search(n, target, array))
-```![스크린샷 2022-09-02 오후 11 43 47](https://user-images.githubusercontent.com/71719160/188174386-89d0e5af-fe95-4656-b3d9-3039fca933ff.png)
-
+```
 
 ### 순차탐색의 시간복잡도
     
