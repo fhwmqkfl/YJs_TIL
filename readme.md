@@ -20,4 +20,7 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 * AWS
   * [가용 영역 & VPN 관련 에러](https://fhwmqkfl.tistory.com/15)
 
+* Git
+  * [깃허브에 잘못 올라간 커밋을 완전히 지워버리기](https://fhwmqkfl.tistory.com/16)
+
 

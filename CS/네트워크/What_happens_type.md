@@ -3,7 +3,7 @@
 ___
 ## 1. 브라우저 URL 파싱
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/05697aca-8889-44a0-a187-dd8900414169/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220907T063053Z&X-Amz-Expires=86400&X-Amz-Signature=d99c157a0e50684de6c4260457d58573c98c847513b682757e743723219327d4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+![img](https://user-images.githubusercontent.com/75003424/124287483-0671f200-db8b-11eb-9498-e17442d62bb7.png)
 
 입력받은 URL의 구조를 해석한다.
 * 어떤 **프로토콜**을 통해 URL을 요청할 것인지,
@@ -45,7 +45,7 @@ ip는 사람이 이해하고 기억하기 어렵기 때문에 이를 위해서 �
 
 > **브로드캐스팅(broadcasting)**
     송신 호스트가 전송한 데이터가 네트워크에 연결된 모든 호스트에 전송되는 방식을 의미한다.
-    <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e19da863-6632-46aa-91d2-d0a69864c2d2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220907T063153Z&X-Amz-Expires=86400&X-Amz-Signature=5f5b6575b48a407b9afaca19c52a1eebef20ca816c55c556c8aa5a6115aa1657&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+    ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Broadcast.svg/250px-Broadcast.svg.png)
 
 ## 6. 대상 서버와 TCP 소켓 연결
 이제 대상 서버와 통신하기 위해 `TCP 소켓 연결`을 진행한다<br>
@@ -53,7 +53,7 @@ ip는 사람이 이해하고 기억하기 어렵기 때문에 이를 위해서 �
 
 
 ### 👉 3-way-handshake
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/679862f2-90af-4418-93b8-79c2de8517e0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220907T063250Z&X-Amz-Expires=86400&X-Amz-Signature=d30a348686bf180f7a7a097b3ceee44072a35b91e74b72a64f4c8b8e5ca3fa00&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+<img src="https://feel5ny.github.io/images/2018/01/handshake.jpg">
 
 1. 연결을 하기 전 :  클라이언트는 Closed 상태이고, 서버는 요청을 기다리고 있는 LISTEN 상태
 2. 클라이언트에 --> 서버 : 연결을 요청하는 **SYN** 데이터를 전송
@@ -76,7 +76,7 @@ TLS(Transport Layer Security)는 HTTP 방식 뿐만아니라 TCP통신을 하는
 7. 이제 TLS 세션이 대칭키로 암호화된 어플리케이션 (HTTP) 데이터를 전송할수 있게 된다
 
 ### 👉 Https요청의 소켓 연결 과정
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2715336-5964-4e13-98c8-ee8508e63e12/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220907T063216Z&X-Amz-Expires=86400&X-Amz-Signature=a4646e07b09e8d60ca07be7224080f6417b3c0ae1262791b20d798a0246c66e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+<img width="471" alt="스크린샷 2022-09-08 오후 7 51 08" src="https://user-images.githubusercontent.com/71719160/189104232-1d8a01d6-c17b-46c3-b884-27b13f027f76.png">
 
 ## 7. HTTP(HTTPS) 프로토콜로 요청, 응답
 이제 연결이 확정되었으니 드디어 해당 페이지 www.google.com를 달라고 서버에게 요청을 보냄
