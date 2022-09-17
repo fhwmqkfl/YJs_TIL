@@ -20,6 +20,8 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 4. [데이터 전송](https://fhwmqkfl.tistory.com/20)
 5. [데이터 링크 계층](https://fhwmqkfl.tistory.com/21)
 6. [네트워크 계층의 기능 & 라우팅 프로토콜](https://fhwmqkfl.tistory.com/22)
+7. [IP 프로토콜](https://fhwmqkfl.tistory.com/23)
+8. [네트워크 계층 프로토콜](https://fhwmqkfl.tistory.com/24)
 
 
 ## 🙄 Algorithm
