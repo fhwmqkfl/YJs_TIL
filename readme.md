@@ -13,7 +13,9 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 * [이더넷과 인터넷의 차이](https://github.com/fhwmqkfl/YJs_TIL/blob/main/CS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/ethernet_internet.md)
 
 
-> 📚 쉽게 배우는 데이터 통신과 컴퓨터 네트워크를 정리한 내용입니다
+> 📚 쉽게 배우는 데이터 통신과 컴퓨터 네트워크를 정리한 내용입니다 <br>
+> `blog`에 정리되어있습니다
+
 1. [네트워크 기초](https://fhwmqkfl.tistory.com/17)
 2. [네트워크 개념](https://fhwmqkfl.tistory.com/18)
 3. [네트워크 기술](https://fhwmqkfl.tistory.com/19)
@@ -23,6 +25,7 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 7. [IP 프로토콜](https://fhwmqkfl.tistory.com/23)
 8. [네트워크 계층 프로토콜](https://fhwmqkfl.tistory.com/24)
 9. [전송 계층의 기능](https://fhwmqkfl.tistory.com/25)
+10. [TCP정의 및 TCP동작 원리](https://fhwmqkfl.tistory.com/26)
 
 ## 🙄 Algorithm
 기존의 발자취는 [이곳](https://github.com/fhwmqkfl/algorithm)에서 확인이 가능합니다
