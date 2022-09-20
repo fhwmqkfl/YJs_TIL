@@ -22,19 +22,24 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 6. [네트워크 계층의 기능 & 라우팅 프로토콜](https://fhwmqkfl.tistory.com/22)
 7. [IP 프로토콜](https://fhwmqkfl.tistory.com/23)
 8. [네트워크 계층 프로토콜](https://fhwmqkfl.tistory.com/24)
-
+9. [전송 계층의 기능](https://fhwmqkfl.tistory.com/25)
 
 ## 🙄 Algorithm
-기존의 발자취는 [이곳](https://github.com/fhwmqkfl/coding_test)에서 확인이 가능합니다
+기존의 발자취는 [이곳](https://github.com/fhwmqkfl/algorithm)에서 확인이 가능합니다
 
 ## 🐍 Python
+* [CollectionType(List, Tuple, Dictionary, Set) 비교](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Python/List%2C%20Tuple%2C%20Dictionary%20and%20Set.md)
+* [Namespace and Variable Scope](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Python/Namespace%26Scope.md)
+* [파이썬의 연산자(bool, 비교, 논리)](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Python/operator(bool_compare_logical).md)
+* [리스트 정렬에서 sort와 sorted 비교](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Python/sort_sorted.md)
+* [Garbage Collector(GC, 가비지 콜렉터)](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Python/garbage_collector.md)
+
 
 ## 👩‍💻 ETC
 
 ## 🕹 Trouble Shooting
 * AWS
   * [가용 영역 & VPN 관련 에러](https://fhwmqkfl.tistory.com/15)
-
 * Git
   * [깃허브에 잘못 올라간 커밋을 완전히 지워버리기](https://fhwmqkfl.tistory.com/16)
 
