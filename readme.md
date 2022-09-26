@@ -26,6 +26,7 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 8. [네트워크 계층 프로토콜](https://fhwmqkfl.tistory.com/24)
 9. [전송 계층의 기능](https://fhwmqkfl.tistory.com/25)
 10. [TCP정의 및 TCP동작 원리](https://fhwmqkfl.tistory.com/26)
+11. [UDP 프로토콜 & RTP 프로토콜 & OSI TP](https://fhwmqkfl.tistory.com/27)
 
 ## 🙄 Algorithm
 기존의 발자취는 [이곳](https://github.com/fhwmqkfl/algorithm)에서 확인이 가능합니다
