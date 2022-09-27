@@ -29,7 +29,9 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 11. [UDP 프로토콜 & RTP 프로토콜 & OSI TP](https://fhwmqkfl.tistory.com/27)
 
 ## 🙄 Algorithm
-기존의 발자취는 [이곳](https://github.com/fhwmqkfl/algorithm)에서 확인이 가능합니다
+>기존의 발자취는 [이곳](https://github.com/fhwmqkfl/algorithm)에서 확인이 가능합니다
+* [탐욕법(Greedy)](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Algorithm/greedy.md)
+  * [관련 문제 풀이](https://github.com/fhwmqkfl/algorithm/tree/master/book/%EA%B7%B8%EB%A6%AC%EB%94%94)
 
 ## 🐍 Python
 * [CollectionType(List, Tuple, Dictionary, Set) 비교](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Python/List%2C%20Tuple%2C%20Dictionary%20and%20Set.md)
