@@ -14,23 +14,15 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 <br>
 <br>
 
-## 🔖 INDEX `🚧`
+## 🔖 INDEX 
 
-- [🗄 DB](#---db)
-- [💡 OS](#---os)
-- [💻 Network](#---network)
-- [🙄 Algorithm](#---algorithm)
-- 🤔 Data Structure
-- [🐍 Python](#---python)
-- [👩‍💻 ETC](#------etc)
-- [🕹 Trouble Shooting](#---trouble-shooting)
+`🚧 추가예정`
 
 -----
 
 </br>
 
 ## 🗄 DB
-<br>
 <br>
 
 ## 💡 OS
