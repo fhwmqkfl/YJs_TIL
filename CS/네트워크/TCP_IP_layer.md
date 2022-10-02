@@ -3,7 +3,7 @@
 데이터 전달을 관리하는 인터넷 표준 프로토콜로 TCP는 신뢰성 있는 데이터 전송을 보장하며 <br> 
 IP는 패킷을 목적지까지 전송하는 일을 담당한다<br>
 HTTP, FTP, SMTP 등 TCP를 기반으로 한 많은 수의 애플리케이션 프로토콜들이 IP위에서 동작
-
+정
 ### TCP/IP 4계층
 
 <img src="https://media.vlpt.us/images/jogiyo/post/0e189400-41bb-4f42-a4c0-e9b0564053d3/image.png">
