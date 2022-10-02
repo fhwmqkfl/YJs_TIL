@@ -18,12 +18,11 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 
 `🚧 추가예정`
 
------
 
 </br>
 
 ## 🗄 DB
-<br>
+* [DataBase Connection Pool(DBCP)](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Database/database_connection_pool.md)
 
 ## 💡 OS
 
@@ -47,7 +46,7 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 > 📚 `쉽게 배우는 데이터 통신과 컴퓨터 네트워크`를 정리한 내용입니다 <br>
 > `blog`에 정리되어있습니다
 
-1. [네트워크 기초](https://fhwmqkfl.tistory.com/17)<br>
+1. [네트워크 기초](https://fhwmqkfl.tistory.com/17)
    * 네트워크 기본 용어 / 구조적 모델 / 주소의 표현 
 2. [네트워크 개념](https://fhwmqkfl.tistory.com/18)
    * 프로토콜의 이해 / OSI 7계층모델 / 인터넷 모델
@@ -66,9 +65,11 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 9. [전송 계층의 기능](https://fhwmqkfl.tistory.com/25)
    * 전송 계층의 기능 / 설계시 고려사항
 10. [TCP정의 및 TCP동작 원리](https://fhwmqkfl.tistory.com/26)
-   * TCP의 정의 / TCP의 헤더 구조 / TCP의 동작 원리
+    * TCP의 정의 / TCP의 헤더 구조 / TCP의 동작 원리
 11. [UDP 프로토콜 & RTP 프로토콜 & OSI TP](https://fhwmqkfl.tistory.com/27)
-   * UDP의 정의 / UDP의 헤더 구조 / RTP(Real Time Protocol) / OSI TP
+    * UDP의 정의 / UDP의 헤더 구조 / RTP(Real Time Protocol) / OSI TP
+12. [상위계층](https://fhwmqkfl.tistory.com/28)
+    * 세션 계층 / 표현 계층 / 응용 계층
 
 ## 🤔 Data Structure
 * [tree](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Data%20Structure/tree.md)
