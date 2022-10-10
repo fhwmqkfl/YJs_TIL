@@ -4,6 +4,7 @@
  <img src="https://velog.velcdn.com/images/ljinsk3/post/27829448-c9d2-4e3e-851a-f04caff0095f/toinfinity.png">
 
  <br>
+ 
  <br>
 그날그날 새로운 지식들을 모두 한곳에 정리해두는 곳입니다　<br>
 DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 업로드 됩니다<br>
@@ -14,13 +15,17 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 <br>
 <br>
 
+-----
+#### 📌 Update Network : 상위 계층 `blog` [👉 보러가기](https://fhwmqkfl.tistory.com/28) 
+#### 📌 Update Network : 네트워크 프로그래밍 `blog`[👉 보러가기](https://fhwmqkfl.tistory.com/29)
+-----
+
 ## 🔖 INDEX 
 
 `🚧 추가예정`
 
 -----
 
-</br>
 
 ## 🗄 DB
 * [DataBase Connection Pool(DBCP)](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Database/database_connection_pool.md)
@@ -69,6 +74,10 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
    * TCP의 정의 / TCP의 헤더 구조 / TCP의 동작 원리
 11. [UDP 프로토콜 & RTP 프로토콜 & OSI TP](https://fhwmqkfl.tistory.com/27)
    * UDP의 정의 / UDP의 헤더 구조 / RTP(Real Time Protocol) / OSI TP
+12. [상위 계층](https://fhwmqkfl.tistory.com/28)
+   * 세션 계층 / 표현 계층 / 응용 계층
+13. [네트워크 프로그래밍](https://fhwmqkfl.tistory.com/29)
+   * 소켓의 주소 체계 / 클라이언트, 서버 프로그래밍
 
 ## 🤔 Data Structure
 * [tree](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Data%20Structure/tree.md)
