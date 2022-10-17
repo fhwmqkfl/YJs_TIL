@@ -129,5 +129,6 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 * Git
   * [깃허브에 잘못 올라간 커밋을 완전히 지워버리기](https://fhwmqkfl.tistory.com/16)
 
-
+* MacOs
+  * [xcrun: error: invalid active developer path 오류](https://fhwmqkfl.tistory.com/30)
 
