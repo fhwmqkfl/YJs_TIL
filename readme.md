@@ -71,14 +71,16 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 9. [전송 계층의 기능](https://fhwmqkfl.tistory.com/25)
    * 전송 계층의 기능 / 설계시 고려사항
 10. [TCP정의 및 TCP동작 원리](https://fhwmqkfl.tistory.com/26)
-   * TCP의 정의 / TCP의 헤더 구조 / TCP의 동작 원리
+    * TCP의 정의 / TCP의 헤더 구조 / TCP의 동작 원리
 11. [UDP 프로토콜 & RTP 프로토콜 & OSI TP](https://fhwmqkfl.tistory.com/27)
-   * UDP의 정의 / UDP의 헤더 구조 / RTP(Real Time Protocol) / OSI TP
+    * UDP의 정의 / UDP의 헤더 구조 / RTP(Real Time Protocol) / OSI TP
 12. [상위 계층](https://fhwmqkfl.tistory.com/28)
-   * 세션 계층 / 표현 계층 / 응용 계층
+    * 세션 계층 / 표현 계층 / 응용 계층
 13. [네트워크 프로그래밍](https://fhwmqkfl.tistory.com/29)
-   * 소켓의 주소 체계 / 클라이언트, 서버 프로그래밍
-
+    * 소켓의 주소 체계 / 클라이언트, 서버 프로그래밍
+14. [웹(WWW)](https://fhwmqkfl.tistory.com/31)
+    * 웹의 구조 / HTTP 프로토콜 / CGI(Common Gateway Interface)
+ 
 ## 🤔 Data Structure
 * [tree](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Data%20Structure/tree.md)
 * [binary_search_tree](https://github.com/fhwmqkfl/YJs_TIL/blob/main/Data%20Structure/binary_search_tree.md)
@@ -126,9 +128,10 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 ## 🕹 Trouble Shooting
 * AWS
   * [가용 영역 & VPN 관련 에러](https://fhwmqkfl.tistory.com/15)
+
 * Git
   * [깃허브에 잘못 올라간 커밋을 완전히 지워버리기](https://fhwmqkfl.tistory.com/16)
-
+  
 * MacOs
   * [xcrun: error: invalid active developer path 오류](https://fhwmqkfl.tistory.com/30)
 
