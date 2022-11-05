@@ -16,14 +16,7 @@ DB, CS, 알고리즘, 파이썬 등 모든 지식들의 전반적인 내용이 �
 <br>
 
 -----
-#### 📌 Update Network : 상위 계층 `blog` [👉 보러가기](https://fhwmqkfl.tistory.com/28) 
-#### 📌 Update Network : 네트워크 프로그래밍 `blog`[👉 보러가기](https://fhwmqkfl.tistory.com/29)
------
-
-## 🔖 INDEX 
-
-`🚧 추가예정`
-
+#### 📌 Update Network : 웹(WWW) `blog` [👉 보러가기](https://fhwmqkfl.tistory.com/31)
 -----
 
 
